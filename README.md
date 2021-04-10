@@ -1,19 +1,29 @@
-# real_estate
+# Real Estate Frontend
+## Hi! Thanks for taking time to look at this project.
 
-## Project setup
+### Clone into the project from GitHub
+```
+git clone https://github.com/intr00der/real_estate_frontend/
+```
+### Go into the directory
+```
+cd real_estate_frontend
+```
+
+### Install dependancies
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+### Run server
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### From my perspective there was node module which goes by the name "chokidar", which is Mac OS specific, but it still doesn't let us run server for some reason, the solution is:
 ```
-npm run build
+rm -rf node_modules package-lock.json yarn.lock
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### And now you will be able to
+```
+npm run serve
+```
+### Visit 127.0.0.1/8080 to test the project's functionality
