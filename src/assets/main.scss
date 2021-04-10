@@ -1,0 +1,86 @@
+
+@import '~bulma';
+
+.estate-title {
+  font-size: 20px
+}
+.discount {
+  font-weight: bold;
+}
+
+.details-header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-msg {
+  font-weight: bold;
+}
+
+.await-text {
+  color: orange;
+}
+
+.success-text {
+  color: green;
+}
+
+.fail-text {
+  color: red;
+}
+
+.purchase-button-p {
+  margin-bottom: 5px;
+}
+
+.form-input {
+  margin-left: 10px
+}
+
+.image-field {
+  height: 300px
+}
+
+.is-one-third {
+  height: 450px
+}
+
+.columns {
+  display: flex;
+  justify-content:center;
+}
+
+outer-column {
+  height: 400px;
+}
+
+.column {
+
+}
+
+.order-form {
+  margin: 50px
+}
+
+.price-panel {
+  text-align: center;
+}
+
+.inner-column {
+  width: 50%
+}
+
+.pagination-buttons {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.panel-heading {
+  margin-bottom: 50px;
+  color: #3273dc;
+}
+
+.navbar-heading {
+  font-size: 30px
+}
