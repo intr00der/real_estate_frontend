@@ -1,4 +1,4 @@
-# Real Estate Frontend
+# Real Estate Shop - Frontend
 ## Hi! Thanks for taking time to look at this project.
 
 ### Clone into the project from GitHub
