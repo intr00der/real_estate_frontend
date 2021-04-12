@@ -26,5 +26,5 @@ rm -rf node_modules package-lock.json yarn.lock
 ```
 npm run serve
 ```
-## Visit 127.0.0.1/8080 to test the project's functionality
+## Visit http://127.0.0.1/8080 to test the project's functionality
 ### P.S.: Sorry, I didn't find the time to put phone mask on a corresponding input, it takes 10 digits
